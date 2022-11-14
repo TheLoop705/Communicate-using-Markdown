@@ -7,3 +7,7 @@
 ```
 $ echo Hellooo
 ```
+## Next steps: 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Use GitHub Actions
